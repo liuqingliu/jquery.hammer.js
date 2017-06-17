@@ -4,7 +4,7 @@ jquery.hammer.js
 This jQuery plugin is just a small wrapper around the `Hammer()` class.
 It also extends the `Manager.emit` method by triggering jQuery events.
 
- ````js
+ ````js ceshi
 $(element).hammer(options).bind("pan", myPanHandler);
 ````
 
